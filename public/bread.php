@@ -4,7 +4,7 @@
 <html>
 <head>
 <title>
-Fine-Choice-Shopping-Mart
+The Grocers Market
 </title>
     
 <link rel='stylesheet' type="text/css" href='proje.css'/>
@@ -71,7 +71,7 @@ if(isset($_GET['id'])){
         </div>
         <div class="clearfix"></div>
         <hr><a id="LINKING"></a>
-        &copy; 2020 All rights reserved. <a href="#">PRIVACY & POLICY</a> | <a href="#">Terms of Use</a> | <a href="#">Give us feedback</a>
+        &copy; 2021 All rights reserved. <a href="#">PRIVACY & POLICY</a> | <a href="#">Terms of Use</a> | <a href="#">Give us feedback</a>
     </div>
 </body>
 </html>
