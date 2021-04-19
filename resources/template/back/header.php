@@ -35,11 +35,11 @@
 </head>
 
 <body>
-<div style="background-color: rgb(204,110,110);">
+<div style="background-color: rgb(240, 63, 63);">
     <div id="wrapper">
 
         <!-- Navigation -->
-        <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation" style="background-color: rgb(204,110,110);">
+        <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation" style="background-color: rgb(240, 63, 63);">
             <!-- Brand and toggle get grouped for better mobile display -->
             
             <?php include(TEMPLATE_BACK . DS . "top_nav.php") ?>

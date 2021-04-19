@@ -16,6 +16,9 @@
 
 
 <style>
+    body{
+        font-family: 'Noto Sans JP', sans-serif;
+    }
     .dropbtn {
         background-color: transparent;
         color: white;
@@ -36,7 +39,7 @@
     .dropdown-content {
         display: none;
         position: absolute;
-        background-color: lightgreen;
+        background-color: rgb(255, 139, 139);
         width: 220px;
         line-height: 10px;
         box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
@@ -122,6 +125,7 @@
     }
 
     /* Change the color of links on hover */
+    
     .navbar a:hover {
         font-size: 20;
         color: black;
@@ -277,7 +281,7 @@
     <div style="width: 100%; margin-top: 10px; margin-bottom: 10px;">
         <div style="float: left; width: 50%;">
             <h2>OUR MISSION</h2>
-            <p>As part of the Fine-Choice-Shopping-mart, our mission is to make it easy to do business anywhere.</p>
+            <p>As part of the The-Grocers-Market, our mission is to make it easy to do business anywhere.</p>
             <br />
 
             <p>We do this by giving suppliers the tools necessary to reach a global audience for their products, and by
@@ -299,9 +303,9 @@
 
         <div style="float: right; width: 50%;">
             <h2>SUPPORTING SMALL BUSINESS</h2>
-            <p>Fine-Choice-Shopping-mart empowers small and medium-sized businesses to reach millions of customers with
+            <p>The-Grocers-Market empowers small and medium-sized businesses to reach millions of customers with
                 a number of programmes that help boost their revenue, reach and productivity. By telling stories from a
-                wide range of perspectives, we tell the larger story of who is and how Fine-Choice-Shopping-mart core business
+                wide range of perspectives, we tell the larger story of who is and how The core business
                 practices contribute to a better India.</p><br><br><br>
 
             <br />
@@ -326,7 +330,7 @@
                 <p>
                     Supporting small business
                     <br>Out For Delivery<br>
-                    Working at Home town grocers
+                    Working at The-Grocers-Market
                     <a href="aboutus.php">Read More</a>
                 </p>
             </div>
@@ -347,7 +351,7 @@
         <div class="col">
             <h1>CONTACTS</h1>
             <div class="row">
-                <span>shoppingmart@gmail.com</span>
+                <span>grocersgmart@gmail.com</span>
                 <span>(+91) 9787****42</span>
             </div>
         </div>

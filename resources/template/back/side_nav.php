@@ -1,8 +1,8 @@
 <div class="collapse navbar-collapse navbar-ex1-collapse">
-                <ul class="nav navbar-nav side-nav" style="background-color: rgb(204,110,110);">
+                <ul class="nav navbar-nav side-nav" style="background-color: rgb(240, 63, 63);">
 
                     <li class="">
-                        <a href="index.php?orders" style="color: white" style="background-color: rgb(204,110,110);"><i class="fa fa-fw fa-dashboard"></i> Orders</a>
+                        <a href="index.php?orders" style="color: white"><i class="fa fa-fw fa-dashboard"></i> Orders</a>
                     </li>
                     <li>
                         <a href="index.php?reports" style="color: white"><i class="fa fa-fw fa-bar-chart-o"></i> Reports</a>

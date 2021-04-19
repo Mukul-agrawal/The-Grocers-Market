@@ -15,8 +15,7 @@
            <th>Transaction</th>
            <th>Currency</th>
            <th>Status</th>
-           <th>Date</th>
-           <th>Time</th>
+           <th>Action</th>
           </tr>
     </thead>
     <tbody>
