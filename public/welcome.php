@@ -3,24 +3,26 @@
 
 <!DOCTYPE html>
 <html>
+
 <head>
-<title>
-The Grocers Market
-</title>
-<link rel='stylesheet' type="text/css" href='proj.css'/>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-<link rel='stylesheet' type="text/css" href="customelogin.css">
-</head> 
-<body>   
-	
+    <title>
+        The Grocers Market
+    </title>
+    <link rel='stylesheet' type="text/css" href='proj.css' />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel='stylesheet' type="text/css" href="customelogin.css">
+</head>
 
-<?php include(TEMPLATE_FRONT . DS . "welhead.php") ?>
-    
-<?php include(TEMPLATE_FRONT . DS . "slider.php") ?>
+<body>
 
-<h1 id="line-1">SHOP FOR HEALTHY FOODS</h1> 
-<div class="asdf2">
+
+    <?php include(TEMPLATE_FRONT . DS . "welhead.php") ?>
+
+    <?php include(TEMPLATE_FRONT . DS . "slider.php") ?>
+
+    <h1 id="line-1">SHOP FOR HEALTHY FOODS</h1>
+    <div class="asdf2">
 
         <section id=product-1>
 
@@ -70,21 +72,22 @@ The Grocers Market
             </div>
         </section>
     </div>
-          
+
     <h1 id="line-2">PRODUCTS</h1>
-  
-<div class="asdf">
-<?php get_products(); ?>
-</div>
-    
-<div class="healthy">
+
+    <div class="asdf">
+        <?php get_products(); ?>
+    </div>
+
+    <div class="healthy">
         <img class="healthy-img" src="images\safe.jpg">
         <h1>To Get Tight, Eat Right!</h1>
     </div>
 
-  <?php get_categories(); ?>  
-<?php include(TEMPLATE_FRONT . DS . "footer.php") ?>
+    <?php get_categories(); ?>
+    <?php include(TEMPLATE_FRONT . DS . "footer.php") ?>
 
-<script src ="password.js"></script>
+    <script src="password.js"></script>
 </body>
+
 </html>

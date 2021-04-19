@@ -1,22 +1,18 @@
+<div id="page-wrapper">
+
+    <div class="container-fluid">
 
 
 
+        <div class="col-lg-12">
 
-        <div id="page-wrapper" >
-
-<div class="container-fluid" >
-
-
-
-        <div class="col-lg-12" >
-          
 
             <h1 class="page-header">
                 Users
-             
+
             </h1>
-              <p class="bg-success">
-                
+            <p class="bg-success">
+
             </p>
 
             <a href="index.php?add_user" class="btn btn-primary">Add User</a>
@@ -37,19 +33,20 @@
                     </thead>
                     <tbody>
 
-                    
+
 
                         <?php display_users(); ?>
 
 
-                    
 
 
-                        
-                        
+
+
+
                     </tbody>
-                </table> <!--End of Table-->
-            
+                </table>
+                <!--End of Table-->
+
 
             </div>
 
@@ -62,7 +59,7 @@
 
 
 
-            
+
         </div>
 
 
@@ -77,10 +74,9 @@
 
 
 
-</div>
-<!-- /.container-fluid --><br><br><br><br><br><br>
+    </div>
+    <!-- /.container-fluid --><br><br><br><br><br><br>
 
 </div>
 <!-- /#page-wrapper -->
 <!-- /#wrapper -->
-

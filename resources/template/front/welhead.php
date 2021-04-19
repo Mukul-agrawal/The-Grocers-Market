@@ -16,7 +16,7 @@
   
     if(isset($_SESSION['User']))
     {
-        echo 'Welcome | ' . $_SESSION['User'].'<br/>';
+        echo '<b>Welcome ' . $_SESSION['User'].'<br/><b/>';
     }
     else
     {

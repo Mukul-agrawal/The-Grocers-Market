@@ -15,7 +15,7 @@
                 <p>
                     Supporting small business
                    <br>Out For Delivery<br>
-                    Working at Home town grocers
+                    Working at The-Grocers-Market
                     <a href="aboutus.php">Read More</a>
                 </p>
             </div>
@@ -33,7 +33,7 @@
         <div class="col">
             <h1>CONTACTS</h1>
             <div class="row">
-                <span>shoppingmart@gmail.com</span>
+                <span>grocersmart@gmail.com</span>
                 <span>(+91) **********</span>
             </div>
         </div>
