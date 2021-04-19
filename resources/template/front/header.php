@@ -21,11 +21,11 @@
                 }?>
                 <ul>
                 <li>
-                         <button  class ="button" onclick="document.getElementById('id01').style.display='block'" style="width:180px;">CUSTOMER</button>
+                         <button  class ="button" onclick="document.getElementById('id01').style.display='block'" style="padding:5px;width:180px; height:45px;font-size: 20px;background-color: rgb(238, 77, 77);border-radius: 4px;border: 2px solid black;">CUSTOMER</button>
                                <div id="id01" class="modal">
                                     <form class="modal-contentt animate" method="post">
                                     <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
-                                    <h1 style="color: white; text-align: center; padding-top: 5px; font-size: 35px; font-family: sans-serif;">SignUp Here</h1>
+                                    <h1 style="color: white; text-align: center; padding-top: 5px; font-size: 35px; font-family: 'Noto Sans JP', sans-serif;;">SignUp Here</h1>
                                     <form action="" method="post">
                                       <?php 
                                       if(isset($_POST['submit'])){
@@ -87,7 +87,7 @@
                                         }
                                     }
                                 </script>
-                          <button class ="button" style="width:180px;"><a href ="newsignup.php" style="color: aliceblue;">ADMIN</a></button>
+                          <button class ="button" style="padding:5px;width:180px;height:45px;text-align: center;background-color: rgb(238, 77, 77);border-radius: 4px;border: 2px solid black;"><a href ="newsignup.php" style="color: white;">ADMIN</a></button>
         
                                 <script>
                                     
