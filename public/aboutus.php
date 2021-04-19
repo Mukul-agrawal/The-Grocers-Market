@@ -73,7 +73,7 @@
     .navbar {
         width: 100%;
         height: 80px;
-        background-color: rgb(204, 110, 110);
+        background-color: rgb(240,63,63);
         line-height: 60px;
     }
 
@@ -115,7 +115,7 @@
     /* Style the links inside the navigation bar */
     .navbar a {
 
-        color: hotpink;
+        color: white;
         padding: 10px 20px;
         text-decoration: none;
         font-size: 20px;
@@ -124,7 +124,7 @@
     /* Change the color of links on hover */
     .navbar a:hover {
         font-size: 20;
-        color: cyan;
+        color: black;
     }
 
     .navbar a:hover {
@@ -272,11 +272,6 @@
 </style>
 
 <body style="background-color: bisque;">
-
-
-
-
-    <hr>
     <h1 style="text-align: center; color: brown; font-family: inherit; font-size: 50px;"><b>ABOUT US</b></h1>
     <hr>
     <div style="width: 100%; margin-top: 10px; margin-bottom: 10px;">
@@ -358,7 +353,7 @@
         </div>
         <div class="clearfix"></div>
         <hr><a id="LINKING"></a>
-        &copy; 2020 All rights reserved. <a href="#">PRIVACY & POLICY</a> | <a href="#">Terms of Use</a> | <a
+        &copy; 2021 All rights reserved. <a href="#">PRIVACY & POLICY</a> | <a href="#">Terms of Use</a> | <a
             href="#">Give us feedback</a>
     </div>
 </body>
