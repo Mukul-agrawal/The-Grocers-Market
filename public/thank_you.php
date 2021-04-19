@@ -5,7 +5,7 @@
 <html>
 <head>
 <title>
-Fine-Choice-Shopping-Mart
+The Grocers Market
 </title>
 <link rel='stylesheet' type="text/css" href='proj.css'/>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
