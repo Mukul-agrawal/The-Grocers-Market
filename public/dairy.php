@@ -4,7 +4,7 @@
 <html>
 <head>
 <title>
-Fine-Choice-Shopping-Mart
+The Grocers Market
 </title>
     
 <link rel='stylesheet' type="text/css" href='proje.css'/>
