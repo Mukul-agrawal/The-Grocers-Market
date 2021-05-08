@@ -4,9 +4,7 @@
  
  ## :trophy: Brief introduction about a project:
 <br>
-Since tourism is one of the most significant industries in India, we aim to simplify it with
-our project, helping people to spend a holiday at some of the most desirable holiday destinations.
-With this site, we aim to handle the planning part while families can just focus of the fun part.
+An online shopping mart permits a customer to submit online orders for items and/or services from a store that serves both walk- in customers and online customers. The Online Store System presents an online display of all the items they want to sell. This web based application helps customers to choose their daily needs and add products to their shopping cart. Customers provide their complete detail of address and contact so they can get their chosen products at their home. This web application saves lots of time of customers.
 <br><br> 
 We will be using php/html for the front-end and php MyAdmin for the back-end. The
 styling part will be done using CSS while the functionality will be added using JavaScript. We
