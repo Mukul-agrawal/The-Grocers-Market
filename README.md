@@ -64,12 +64,5 @@ In our project The admin is responsible for maintaining Database of store. Admin
 ## :trophy: Software: <br>
 :desert_island: XAMPP 
 
-Mini Project II
 
-Group Members :-
-
-1.	Ankit Gupta 	            
-2.  Krishna Gupta
-3.  Mukul Agrawal 
-4.  Nitin Kumar 
 
