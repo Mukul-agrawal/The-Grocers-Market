@@ -13,9 +13,7 @@ packages available which user can choose according to his preference.
 <br><br>
 This system provides a lot of features to manage the products in a very well manner. This system contains a lot of advance modules which makes the back end system very powerful.Online grocery store system provides the searching facilities based on the various factors such that products, customers, payment, categories, stock. It can track all the information products, customers, categories, stock and payment.
  <br><br>
- We will provide accommodation, transportation, ratings, photos and videos (of the
-places to be visited via slide show). Places that we will cover in our trip will have historical
-monuments ,coastal areas etc.
+ Today the era has changed completely and the people are not much interested in going to local stores rather they prefer to shop online. This trend has made a revolutionary change in online shopping industry and today every business organization has their own online store. It has become one of the biggest industries in terms of revenue and customers.
 <br><br>
 The customer can sign in/sign up and search for the tour packages. Customers can book easily through the site. And there are other features such as customers can check their Tour history and their issued tickets, and many more. And Admin can Create, Manage Packages, Manage bookings, issues, inquiries, pages. The design is pretty simple and the user won’t find it difficult to understand, use and navigate.
 <br><br><br>
