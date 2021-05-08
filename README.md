@@ -63,6 +63,13 @@ In our project The admin is responsible for maintaining Database of store. Admin
 
 ## :trophy: Software: <br>
 :desert_island: XAMPP 
+<br><br>
+
+## :trophy: Group Members :
+<br>
+📘 Krishna Gupta <br>
+📘 Mukul Agrawal <br>
+📘 Nitin Kumar <br>
 
 
 
