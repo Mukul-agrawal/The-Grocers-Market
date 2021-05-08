@@ -42,7 +42,7 @@ In our project The admin is responsible for maintaining Database of store. Admin
 <br>
 <p align="center">
  
-![ER-Diagram](https://github.com/anushka23g/Travel-Tourism-Website/blob/master/er-diagram.jpg)
+![ER-Diagram](https://github.com/krishnaguptaa/The-Grocers-Market/blob/main/erdiagram.png)
 
 </p>
 <br><br><br>
