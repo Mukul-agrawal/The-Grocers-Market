@@ -20,21 +20,22 @@ In our project The admin is responsible for maintaining Database of store. Admin
 
 ## :trophy: Objectives
 <br>
-📗 To provide best travelling services to the customers and travel agents <br>
-📗 To provide a search platform where tourist can find their tour places according to their preference. <br>
-📗 To promote responsible and interesting tourism so that people can enjoy their holiday at their favorable places. <br>
-📗 Weather information <br>
-📗 To provide efficient way to connect with various events. <br>
-📗 To build healthy interaction opportunities for tourists and locals <br>
+📗 To Reduction of expiry items. <br>
+📗 Increase in sale by the observation of sale of products by the customers. <br>
+📗 Coming back to track which they were kicked off by malls and big shops connected online.. <br>
+📗 Promoting digitalizing scheme. <br>
+📗 To provide services at doorstep. <br>
+📗 To provide a way of digitalization for the sellers and customers. <br>
 <br><br><br>
 
 ## :trophy: Features :
 <br>
-📘 Login/Register System <br>
 📘 Admin Panel <br>
-📘 Manage, Create Packages <br>
-📘 Easy Bookings <br>
-📘 Manage Bookings <br>
+📘 User Login/Sign Up <br>
+📘 Categories <br>
+📘 Cart <br>
+📘 Contact Us <br>
+📘 About Us Us <br>
 <br><br><br>
 
 ## :trophy: ER Diagram:
