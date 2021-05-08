@@ -15,7 +15,7 @@ This system provides a lot of features to manage the products in a very well man
  <br><br>
  Today the era has changed completely and the people are not much interested in going to local stores rather they prefer to shop online. This trend has made a revolutionary change in online shopping industry and today every business organization has their own online store. It has become one of the biggest industries in terms of revenue and customers.
 <br><br>
-The customer can sign in/sign up and search for the tour packages. Customers can book easily through the site. And there are other features such as customers can check their Tour history and their issued tickets, and many more. And Admin can Create, Manage Packages, Manage bookings, issues, inquiries, pages. The design is pretty simple and the user won’t find it difficult to understand, use and navigate.
+In our project The admin is responsible for maintaining Database of store. Admin will control the store i.e, can add and remove items can see the performance of the store and can check which item is require to add or not. Login module refers to authenticating the user and granting the access to their account. They can login with their registered username and password and do their work. We have total 8 categories in our site which can be added and remove depending upon developer and admin , these categories are bread and bakery , dairy products ,cleaning materials, chocolates etc. Products and its prices in these categories can also be added and remove dynamically. User can add their choice of item in this cart module and later can place order. User can contact to the store with the help of this module. User can read details of Flowers world in about us module.
 <br><br><br>
 
 ## :trophy: Objectives
