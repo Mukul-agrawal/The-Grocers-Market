@@ -11,10 +11,7 @@ styling part will be done using CSS while the functionality will be added using 
 plan on making it as user-friendly as possible, with preplanned packages and even custom
 packages available which user can choose according to his preference.
 <br><br>
-Along with being one of the biggest industries in India, tourism is also the most profitable
-one; especially with such exotic natural(Kashmir) and historical (Taj Mahal) tourist destinations.
-Plus, for a family who has been through a stressful time lately, a holiday can be relaxing and
-enjoyable.
+This system provides a lot of features to manage the products in a very well manner. This system contains a lot of advance modules which makes the back end system very powerful.Online grocery store system provides the searching facilities based on the various factors such that products, customers, payment, categories, stock. It can track all the information products, customers, categories, stock and payment.
  <br><br>
  We will provide accommodation, transportation, ratings, photos and videos (of the
 places to be visited via slide show). Places that we will cover in our trip will have historical
